@@ -1,0 +1,6 @@
+.file:link,
+.file:active,
+.file:visited {
+  color: white;
+  margin-right: 1rem;
+}
